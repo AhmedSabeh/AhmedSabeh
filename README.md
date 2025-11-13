@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Ahmed Sabeh</h2>
 <p align="center">
-  <b>Junior DevOps Engineer | AWS Certified (SAA + CCP) | Cloud & Automation Enthusiast</b>
+  <b>Junior DevOps Engineer | Cloud & Automation Enthusiast</b> | AWS Certified (SAA + CCP)
 </p>
 
 ---
@@ -15,8 +15,11 @@
 ---
 
 ### 🚀 About Me  
-I build cloud-native, production-ready infrastructure and CI/CD pipelines using modern DevOps tools.  
-I love **automation, scalability, and solving real engineering problems.**
+I am a results-driven **DevOps Engineer and Cloud Specialist** with hands-on expertise in designing, automating, and managing scalable cloud infrastructures. I excel at bridging the gap between development and operations by implementing **CI/CD pipelines, Infrastructure as Code, and containerized microservices**.  
+
+With deep experience in **AWS, Kubernetes, Docker, Terraform, Ansible, and Jenkins**, I deliver production-ready, highly available, and secure cloud solutions. I thrive on solving complex operational challenges, optimizing deployments, and driving automation to accelerate software delivery and infrastructure efficiency.  
+
+Passionate about **continuous learning, cloud innovation, and DevOps best practices**, I aim to create high-impact, cost-efficient, and resilient systems that meet modern business needs.
 
 ---
 
@@ -32,11 +35,6 @@ I love **automation, scalability, and solving real engineering problems.**
 - AWS Cloud Practitioner  
 
 ---
-
-### 📫 Contact  
-📧 **Email:** ahmedsabeh.dev@gmail.com  
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-sabeh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsabeh911@gmail.com) 
