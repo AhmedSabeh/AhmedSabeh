@@ -2,6 +2,7 @@
 <p align="center">
   <b>Junior DevOps Engineer | Cloud & Automation Enthusiast</b> | AWS Certified (SAA + CCP)
 </p>
+![Nft Coding GIF](https://github.com/user-attachments/assets/44953956-a9fd-4419-b14f-69e892dccafd)
 
 ---
 
