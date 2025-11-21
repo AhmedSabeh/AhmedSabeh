@@ -3,6 +3,11 @@
   <b>Junior DevOps Engineer | Cloud & Automation Enthusiast</b> | AWS Certified (SAA + CCP)
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc47152b-2a45-48b3-b148-bfbe9ce2f43d" width="500">
+</p>
+
+
 ---
 
 ### 🛠️ Tech Stack  
